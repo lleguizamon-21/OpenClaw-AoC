@@ -13,8 +13,10 @@ Asistente inteligente autónomo basado en **OpenClaw v2026.3.8** y **Google Gemi
 
 ## 🚀 Instalación rápida
 1. **Clonar y entrar:**
+   crear una carpeta para el  proyecto y ahí clonar el repositorio
+
    `git clone https://github.com/openclaw/openclaw`
-   `cd openclaw-bot`
+
 2. **Configurar entorno:** Crea un archivo `.env` basado en el `.env.example`.
 3. **Levantar con Docker, Ejecutar el scrip:**
    `docker-setup.sh`

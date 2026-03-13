@@ -70,4 +70,4 @@ Todo esto lo realiza dentro de un Docker
    `docker exec -it openclaw-bot npx openclaw pairing approve telegram [CODIGO]`
 
 ----------------------------------------------------------------------------
-###En el archivo comandos.md se especifican los comandos que se ejecutan ###para  continuar con la integración de OpenClaw
+###En el archivo comandos.md se especifican los comandos que se ejecutan para  continuar con la integración de OpenClaw

@@ -1,5 +1,4 @@
-# 🦞 OpenClaw Telegram Bot
-# AoC UC
+# 🦞 OpenClaw Telegram Bot (Asunción 2026)
 
 Asistente inteligente autónomo basado en **OpenClaw v2026.3.8** y **Google Gemini 2.5 Flash**. Diseñado para navegación web, geolocalización y asistencia gastronómica local.
 

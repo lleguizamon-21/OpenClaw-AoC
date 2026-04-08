@@ -35,7 +35,7 @@ Al terminar vas a poder:
 Abre **Git Bash** y ejecuta:
 
 ```bash
-cd /c/Users/HP/Documents
+cd <ruta>/ubicacion_de_tu_carpeta #Seleciona una ubicación para clonar el repositorio.
 git clone https://github.com/openclaw/openclaw.git
 cd openclaw
 bash ./docker-setup.sh
@@ -55,7 +55,7 @@ Durante el proceso, OpenClaw puede pedirte datos de configuración. Si prefieres
 Cuando ya tengas Docker, Telegram y Gemini listos:
 
 ```bash
-cd /c/Users/HP/Documents/openclaw
+cd <ruta_de_tu_carpeta>/openclaw
 bash ./docker-setup.sh
 docker compose ps
 ```

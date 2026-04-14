@@ -58,7 +58,7 @@ docker compose logs -f openclaw-gateway
 ## 5. Pairing Telegram
 
 ```bash
-docker compose run --rm openclaw-cli pairing approve telegram CODIGO
+docker exec -it openclaw-bot-final npx openclaw pairing approve telegram CODIGO
 ```
 
 ---
@@ -141,7 +141,7 @@ docker compose logs -f openclaw-gateway
 ## 7. Pairing Telegram
 
 ```bash
-docker compose run --rm openclaw-cli pairing approve telegram CODIGO
+docker exec -it openclaw-bot-final npx openclaw pairing approve telegram CODIGO
 ```
 
 ---
